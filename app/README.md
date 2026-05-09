@@ -19,6 +19,8 @@
 | <img src="./xmly.png" width="40"> | 喜马拉雅 | `xmly.png` | 
 | <img src="./xxcs.png" width="40"> | 小象超市 | `xxcs.png` | 
 | <img src="./weibo.png" width="40"> | 微博 | `weibo.png` | 
+| <img src="./tuhu.png" width="40"> | 途虎养车 | `tuhu.png` | 
+| <img src="./qqmusic.png" width="40"> | QQ音乐 | `qqmusic.png` | 
 
 ---
 
