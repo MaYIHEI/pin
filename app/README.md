@@ -18,6 +18,7 @@
 | <img src="./alicloud.png" width="40"> | 阿里云 / Alicloud | `alicloud.png` | 
 | <img src="./xmly.png" width="40"> | 喜马拉雅 | `xmly.png` | 
 | <img src="./xxcs.png" width="40"> | 小象超市 | `xxcs.png` | 
+| <img src="./weibo.png" width="40"> | 微博 | `weibo.png` | 
 
 ---
 
