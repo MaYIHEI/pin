@@ -20,9 +20,9 @@
 | <img src="./sanfenjc.png" width="40"> | 三分机场 | `sanfenjc.png` |
 | <img src="./synet.png" width="40"> | SYNet | `synet.png` |
 | <img src="./tkv.png" width="40"> | TKV | `tkv.png` |
-| <img src="./wdy.png" width="40"> | 无道云 / WDY | `wdy.png` |
-| <img src="./xingly.png" width="40"> | XingLY | `xingly.png` |
-| <img src="./xly.png" width="40"> | XLY | `xly.png` |
+| <img src="./wdy.png" width="40"> | 万达云 | `wdy.png` |
+| <img src="./xingly.png" width="40"> | 星链云 | `xingly.png` |
+| <img src="./xly.png" width="40"> | 星链云 | `xly.png` |
 
 ---
 
