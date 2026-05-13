@@ -6,10 +6,10 @@
 
 ## 📜 清单
 
-| 图标 | 名称 | 文件名 | 图标 | 名称 | 文件名 |
+| 图标 | 名称 | 文件名 | 图标|
 |:---:|---|---|---|
-| <img src="./bwcj.png" width="40"> | 霸王茶姬 | `bwcj.png` | | <img src="./qqmusic.png" width="40"> | QQ音乐 | `qqmusic.png` | 
-| <img src="./haluo.png" width="40"> | 哈啰出行 | `haluo.png` | | <img src="./tuhu.png" width="40"> | 途虎养车 | `tuhu.png` | 
+| <img src="./bwcj.png" width="40"> | 霸王茶姬 | `bwcj.png` | 
+| <img src="./haluo.png" width="40"> | 哈啰出行 | `haluo.png` | 
 | <img src="./kuake.png" width="40"> | 夸克 | `kuake.png` | 
 | <img src="./mxbc.png" width="40"> | 蜜雪冰城 | `mxbc.png` |
 | <img src="./popmart.png" width="40"> | 泡泡玛特 | `popmart.png` |
@@ -19,8 +19,8 @@
 | <img src="./xmly.png" width="40"> | 喜马拉雅 | `xmly.png` | 
 | <img src="./xxcs.png" width="40"> | 小象超市 | `xxcs.png` | 
 | <img src="./weibo.png" width="40"> | 微博 | `weibo.png` | 
-
-
+| <img src="./tuhu.png" width="40"> | 途虎养车 | `tuhu.png` | 
+| <img src="./qqmusic.png" width="40"> | QQ音乐 | `qqmusic.png` | 
 
 ---
 
