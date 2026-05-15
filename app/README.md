@@ -23,6 +23,8 @@
 | <img src="./qqmusic.png" width="40"> | QQ音乐 | `qqmusic.png` | 
 | <img src="./tenvideo.png" width="40"> | 腾讯视频 | `tenvideo.png` | 
 | <img src="./haidilao.png" width="40"> | 海底捞 | `haidilao.png` | 
+| <img src="./mihoyo.png" width="40"> | 米游社 | `mihoyo.png` | 
+
 
 ---
 
