@@ -24,6 +24,10 @@
 | <img src="./tenvideo.png" width="40"> | 腾讯视频 | `tenvideo.png` | 
 | <img src="./haidilao.png" width="40"> | 海底捞 | `haidilao.png` | 
 | <img src="./mihoyo.png" width="40"> | 米游社 | `mihoyo.png` | 
+| <img src="./miniso.png" width="40"> | 名创优品 | `miniso.png` | 
+| <img src="./bibisheng.png" width="40"> | 微信支付笔笔省 | `bibisheng.png` | 
+| <img src="./huisheng.png" width="40"> | 惠省红包墙 | `huisheng.png` | 
+| <img src="./paperclip.png" width="40"> | Paperclip | `paperclip.png` | 
 
 
 ---
