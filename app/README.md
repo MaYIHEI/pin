@@ -27,6 +27,7 @@
 | <img src="./miniso.png" width="40"> | 名创优品 | `miniso.png` | 
 | <img src="./bibisheng.png" width="40"> | 微信支付笔笔省 | `bibisheng.png` | 
 | <img src="./huisheng.png" width="40"> | 惠省红包墙 | `huisheng.png` | 
+| <img src="./newmixc.png" width="40"> | 一点万象 | `newmixc.png` | 
 | <img src="./paperclip.png" width="40"> | Paperclip | `paperclip.png` | 
 
 
