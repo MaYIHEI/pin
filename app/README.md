@@ -29,7 +29,7 @@
 | <img src="./huisheng.png" width="40"> | 惠省红包墙 | `huisheng.png` | 
 | <img src="./newmixc.png" width="40"> | 一点万象 | `newmixc.png` | 
 | <img src="./lhtj.png" width="40"> | 龙湖天街 | `lhtj.png` | 
-| <img src="./longdec.png" width="40"> | 龙德广场 | `longde.png` | 
+| <img src="./longde.png" width="40"> | 龙德广场 | `longde.png` | 
 | <img src="./paperclip.png" width="40"> | Paperclip | `paperclip.png` | 
 
 ---
