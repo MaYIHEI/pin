@@ -32,6 +32,7 @@
 | <img src="./longde.png" width="40"> | 龙德广场 | `longde.png` | 
 | <img src="./htinns.png" width="40"> | 华住会 | `htinns.png` | 
 | <img src="./casetify.png" width="40"> | casetify | `casetify.png` | 
+| <img src="./mishop.png" width="40"> | 小米商城 | `mishop.png` | 
 | <img src="./paperclip.png" width="40"> | Paperclip | `paperclip.png` | 
 
 ---
