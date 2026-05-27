@@ -33,6 +33,7 @@
 | <img src="./htinns.png" width="40"> | 华住会 | `htinns.png` | 
 | <img src="./casetify.png" width="40"> | casetify | `casetify.png` | 
 | <img src="./mishop.png" width="40"> | 小米商城 | `mishop.png` | 
+| <img src="./youpin.png" width="40"> | 小米优品 | `youpin.png` | 
 | <img src="./paperclip.png" width="40"> | Paperclip | `paperclip.png` | 
 
 ---
