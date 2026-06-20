@@ -41,6 +41,7 @@
 | <img src="./bhg.png" width="40"> | 北京华联 | `bhg.png` | 
 | <img src="./tingtingfm.png" width="40"> | 听听FM | `tingtingfm.png` | 
 | <img src="./paperclip.png" width="40"> | Paperclip | `paperclip.png` | 
+| <img src="./camscanner.png" width="40"> | 扫描全能王 | `camscanner.png` | 
 
 ---
 
