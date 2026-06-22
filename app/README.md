@@ -42,7 +42,9 @@
 | <img src="./tingtingfm.png" width="40"> | 听听FM | `tingtingfm.png` | 
 | <img src="./paperclip.png" width="40"> | Paperclip | `paperclip.png` | 
 | <img src="./camscanner.png" width="40"> | 扫描全能王 | `camscanner.png` | 
-| <img src="./sgcc.png" width="40"> | 网上国网 | `sgcc.png` | 
+| <img src="./sgcc.png" width="40"> | 网上国网 | `sgcc.png` |
+| <img src="./dreame.png" width="40"> | 追觅 | `dreame.png` |
+| <img src="./linghu.png" width="40"> | 灵狐灵购 | `linghu.png` | 
 
 ---
 
