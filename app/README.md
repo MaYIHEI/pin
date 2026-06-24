@@ -45,6 +45,7 @@
 | <img src="./sgcc.png" width="40"> | 网上国网 | `sgcc.png` |
 | <img src="./dreame.png" width="40"> | 追觅 | `dreame.png` |
 | <img src="./linghu.png" width="40"> | 灵狐灵购 | `linghu.png` | 
+| <img src="./baidunetdisk.png" width="40"> | 百度网盘 | `baidunetdisk.png` | 
 
 ---
 
