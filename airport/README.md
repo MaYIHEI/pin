@@ -15,11 +15,13 @@
 | <img src="./edgex.png" width="40"> | EdgeX | `edgex.png` |
 | <img src="./enet.png" width="40"> | ENET | `enet.png` |
 | <img src="./fm.png" width="40"> | FM | `fm.png` |
+| <img src="./novixlink.png" width="40"> | NovixLink | `novixlink.png` |
 | <img src="./nutsfind.png" width="40"> | NutsFind | `nutsfind.png` |
 | <img src="./rec.png" width="40"> | REC | `rec.png` |
 | <img src="./sanfenjc.png" width="40"> | 三分机场 | `sanfenjc.png` |
 | <img src="./synet.png" width="40"> | SYNet | `synet.png` |
 | <img src="./tkv.png" width="40"> | TKV | `tkv.png` |
+| <img src="./uzumaru.png" width="40"> | Uzumaru | `uzumaru.png` |
 | <img src="./wdy.png" width="40"> | 万达云 | `wdy.png` |
 | <img src="./xingly.png" width="40"> | 星链云 | `xingly.png` |
 | <img src="./xly.png" width="40"> | 星链云 | `xly.png` |
