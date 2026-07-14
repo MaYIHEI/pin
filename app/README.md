@@ -46,6 +46,7 @@
 | <img src="./dreame.png" width="40"> | 追觅 | `dreame.png` |
 | <img src="./linghu.png" width="40"> | 灵狐灵购 | `linghu.png` | 
 | <img src="./baidunetdisk.png" width="40"> | 百度网盘 | `baidunetdisk.png` | 
+| <img src="./pan1.png" width="40"> | 123云盘 | `pan1.png` |
 
 ---
 
