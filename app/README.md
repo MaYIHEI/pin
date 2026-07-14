@@ -47,6 +47,7 @@
 | <img src="./linghu.png" width="40"> | 灵狐灵购 | `linghu.png` | 
 | <img src="./baidunetdisk.png" width="40"> | 百度网盘 | `baidunetdisk.png` | 
 | <img src="./pan1.png" width="40"> | 123云盘 | `pan1.png` |
+| <img src="./linli.png" width="40"> | 林里 | `linli.png` |
 
 ---
 
