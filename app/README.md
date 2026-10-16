@@ -43,6 +43,7 @@
 | <img src="./paperclip.png" width="40"> | Paperclip | `paperclip.png` | 
 | <img src="./paperclip-checkin.png" width="40"> | Paperclip 签到合集 | `paperclip-checkin.png` | 
 | <img src="./paperclip-cookie.png" width="40"> | Paperclip Cookie 抓取 | `paperclip-cookie.png` | 
+| <img src="./paperclip-boxjs.png" width="40"> | Paperclip BoxJS 订阅 | `paperclip-boxjs.png` | 
 | <img src="./camscanner.png" width="40"> | 扫描全能王 | `camscanner.png` | 
 | <img src="./sgcc.png" width="40"> | 网上国网 | `sgcc.png` |
 | <img src="./dreame.png" width="40"> | 追觅 | `dreame.png` |
