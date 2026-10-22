@@ -52,6 +52,7 @@
 | <img src="./pan1.png" width="40"> | 123云盘 | `pan1.png` |
 | <img src="./linli.png" width="40"> | 林里 | `linli.png` |
 | <img src="./laifen.png" width="40"> | 徕芬 | `laifen.png` |
+| <img src="./heybox.png" width="40"> | 小黑盒 | `heybox.png` |
 
 ---
 
