@@ -8,6 +8,7 @@
 
 | 图标 | 名称 | 文件名 | 图标|
 |:---:|---|---|---|
+| <img src="./cmcc.png" width="40"> | 中国移动 | `cmcc.png` |
 | <img src="./bwcj.png" width="40"> | 霸王茶姬 | `bwcj.png` | 
 | <img src="./haluo.png" width="40"> | 哈啰出行 | `haluo.png` | 
 | <img src="./kuake.png" width="40"> | 夸克 | `kuake.png` | 
