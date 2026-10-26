@@ -11,6 +11,8 @@
 | <img src="./cmcc.png" width="40"> | 中国移动 | `cmcc.png` |
 | <img src="./bwcj.png" width="40"> | 霸王茶姬 | `bwcj.png` | 
 | <img src="./haluo.png" width="40"> | 哈啰出行 | `haluo.png` | 
+| <img src="./hellobike.png" width="40"> | 哈啰（新版） | `hellobike.png` |
+| <img src="./meituan.png" width="40"> | 美团 | `meituan.png` |
 | <img src="./kuake.png" width="40"> | 夸克 | `kuake.png` | 
 | <img src="./mxbc.png" width="40"> | 蜜雪冰城 | `mxbc.png` |
 | <img src="./popmart.png" width="40"> | 泡泡玛特 | `popmart.png` |
